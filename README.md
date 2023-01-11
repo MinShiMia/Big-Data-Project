@@ -1,11 +1,11 @@
-# This repository contains the presentation file of our big data group project. 
+# This repository contains the files of our big data group project. 
 
 # Statement: 
 Accidents caused by large trucks remain one of the leading causes of injuries and deaths in the United States.
 
 Hence, in order to capture the driving behavior of its truck drivers, ANT corporation has equipped its trucks with a device to log location and event data to increase safety. 
 
-# Objective: 
+# Objectives: 
 
 1) Identify dangerous commercial truck drivers; 
 
