@@ -22,7 +22,7 @@ Hence, in order to capture the driving behavior of its truck drivers, ANT corpor
 4) Finally, we draw our conclusion and propose suggestions on how to lower the probability of large trucks accidents.
 
 
-# [Table Relationship](https://MinShiMia.github.io/assets/BigDataProjectTableRelationship.png)
+# [Table Relationship](https://MinShiMia.github.io/Big-Data-Project/BigDataProjectTableRelationship.png)
 
 # [Business Question 1](https://MinShiMia.github.io/Big-Data-Project/BigDataProjectQuestion1.png)
 Who are the most and least risky drivers?
