@@ -1,4 +1,4 @@
-# This repository contains the files of our big data group project. 
+# This repository contains the files for our big data group project. 
 
 # Statement: 
 Accidents caused by large trucks remain one of the leading causes of injuries and deaths in the United States.
