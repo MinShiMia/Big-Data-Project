@@ -1,6 +1,8 @@
 # This repository contains the presentation file of our big data group project. 
 
-# Statement: Accidents caused by large trucks remain one of the leading causes of injuries and deaths in the United States.
+# Statement: 
+Accidents caused by large trucks remain one of the leading causes of injuries and deaths in the United States.
+
 Hence, in order to capture the driving behavior of its truck drivers, ANT corporation has equipped its trucks with a device to log location and event data to increase safety. 
 
 # Objective: 
@@ -9,7 +11,7 @@ Hence, in order to capture the driving behavior of its truck drivers, ANT corpor
 
 2) Create an analytical dashboard for illustrations.
 
-# [Flowchart](https://MinShiMia.github.io/assets/BigDataProjectFlowchart.png): 
+# [Flowchart](https://MinShiMia.github.io/Big-Data-Project/BigDataProjectFlowchart.png): 
 
 1) We first utilize big data Hadoop ecosystem to process geospatial data, including database and tables creation, data ingestion, transform.
 
@@ -22,17 +24,23 @@ Hence, in order to capture the driving behavior of its truck drivers, ANT corpor
 
 # [Table Relationship](https://MinShiMia.github.io/assets/BigDataProjectTableRelationship.png)
 
-# Business Question 1: Most and least risky drivers
+# [Business Question 1](https://MinShiMia.github.io/Big-Data-Project/BigDataProjectQuestion1.png)
+Who are the most and least risky drivers?
 
-# Business Question 2: Cities with the highest risk factor
+# [Business Question 2](https://MinShiMia.github.io/Big-Data-Project/BigDataProjectQuestion2.png)
+Which city has the highest risk factor?
 
-# Business Question 3: Events and risk factor
+# [Business Question 3](https://MinShiMia.github.io/Big-Data-Project/BigDataProjectQuestion3.png)
+What's the relationship between events and risk factor?
 
-# Business Question 4: MPG/Velocity and risk factor
+# [Business Question 4](https://MinShiMia.github.io/Big-Data-Project/BigDataProjectQuestion4.png)
+What's the relationship between MPG/Velocity and risk factor?
 
-# Business Question 5: Truck model and risk factor
+# [Business Question 5](https://MinShiMia.github.io/Big-Data-Project/BigDataProjectQuestion5.png)
+What's the relationship between truck model and risk factor?
 
-# Business Question 6: Linear Regression and Correlation
+# [Business Question 6](https://MinShiMia.github.io/Big-Data-Project/BigDataProjectQuestion6.png)
+Using linear regression and correlation to explore the factors affecting risk factor ~
 
 # Conclusions & Suggestions:
 1) Risk factors are not dependent on MPG/Velocity, it is perfectly correlated with count of unnormal events.
