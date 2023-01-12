@@ -11,7 +11,7 @@ Hence, in order to capture the driving behavior of its truck drivers, ANT corpor
 
 2) Create an analytical dashboard for illustrations.
 
-# [Flowchart](https://MinShiMia.github.io/Big-Data-Project/BigDataProjectFlowchart.png): 
+# ![Flowchart](https://MinShiMia.github.io/Big-Data-Project/BigDataProjectFlowchart.png): 
 
 1) We first utilize big data Hadoop ecosystem to process geospatial data, including database and tables creation, data ingestion, transform.
 
@@ -22,24 +22,24 @@ Hence, in order to capture the driving behavior of its truck drivers, ANT corpor
 4) Finally, we draw our conclusion and propose suggestions on how to lower the probability of large trucks accidents.
 
 
-# [Table Relationship](https://MinShiMia.github.io/Big-Data-Project/BigDataProjectTableRelationship.png)
+# ![Table Relationship](https://MinShiMia.github.io/Big-Data-Project/BigDataProjectTableRelationship.png)
 
-# [Business Question 1](https://MinShiMia.github.io/Big-Data-Project/BigDataProjectQuestion1.png)
+# ![Business Question 1](https://MinShiMia.github.io/Big-Data-Project/BigDataProjectQuestion1.png)
 Who are the most and least risky drivers?
 
-# [Business Question 2](https://MinShiMia.github.io/Big-Data-Project/BigDataProjectQuestion2.png)
+# ![Business Question 2](https://MinShiMia.github.io/Big-Data-Project/BigDataProjectQuestion2.png)
 Which city has the highest risk factor?
 
-# [Business Question 3](https://MinShiMia.github.io/Big-Data-Project/BigDataProjectQuestion3.png)
+# ![Business Question 3](https://MinShiMia.github.io/Big-Data-Project/BigDataProjectQuestion3.png)
 What's the relationship between events and risk factor?
 
-# [Business Question 4](https://MinShiMia.github.io/Big-Data-Project/BigDataProjectQuestion4.png)
+# ![Business Question 4](https://MinShiMia.github.io/Big-Data-Project/BigDataProjectQuestion4.png)
 What's the relationship between MPG/Velocity and risk factor?
 
-# [Business Question 5](https://MinShiMia.github.io/Big-Data-Project/BigDataProjectQuestion5.png)
+# ![Business Question 5](https://MinShiMia.github.io/Big-Data-Project/BigDataProjectQuestion5.png)
 What's the relationship between truck model and risk factor?
 
-# [Business Question 6](https://MinShiMia.github.io/Big-Data-Project/BigDataProjectQuestion6.png)
+# ![Business Question 6](https://MinShiMia.github.io/Big-Data-Project/BigDataProjectQuestion6.png)
 Using linear regression and correlation to explore the factors affecting risk factor ~
 
 # Conclusions & Suggestions:
