@@ -29,24 +29,34 @@ Hence, in order to capture the driving behavior of its truck drivers, ANT corpor
 
 # Business Question 1: Who are the most and least risky drivers?
 ![Business Question 1](https://MinShiMia.github.io/Big-Data-Project/BigDataProjectQuestion1.png)
+Answer: Most risky driver: A73 (10 risk factor); Least risky driver: A2 (0.966 risk factor)
 
 
 # Business Question 2: Which city has the highest risk factor?
 ![Business Question 2](https://MinShiMia.github.io/Big-Data-Project/BigDataProjectQuestion2.png)
+Answer: City with highest average risk factor: Hollister (with risk factor 5.498)
 
 
 # Business Question 3: What's the relationship between events and risk factor?
 ![Business Question 3](https://MinShiMia.github.io/Big-Data-Project/BigDataProjectQuestion3.png)
+Answer: Unsafe following distance causes highest number of unnormal event.
+
 
 # Business Question 4: What's the relationship between MPG/Velocity and risk factor?
 
 ![Business Question 4](https://MinShiMia.github.io/Big-Data-Project/BigDataProjectQuestion4.png)
+Answer: MPG or Speed does not have obvious relationship with risk factor.
+
 
 # Business Question 5: What's the relationship between truck model and risk factor?
 ![Business Question 5](https://MinShiMia.github.io/Big-Data-Project/BigDataProjectQuestion5.png)
+Answer: Different tuck model has different frequency of unnormal events, thus different level of risk factor.
+
 
 # Business Question 6: Using linear regression and correlation to explore the factors affecting risk factor ~
 ![Business Question 6](https://MinShiMia.github.io/Big-Data-Project/BigDataProjectQuestion6.png)
+Inference: risk factor is almost perfectly correlated with only the number of events
+
 
 # Conclusions & Suggestions:
 1) Risk factors are not dependent on MPG/Velocity, it is perfectly correlated with count of unnormal events.
